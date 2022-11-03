@@ -1,0 +1,100 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "8UmY5RFlG_J3N9Bu8vjEOTsUfY4",
+    "nextPageToken": "CAIQAA",
+    "regionCode": "EC",
+    "pageInfo": {
+        "totalResults": 173,
+        "resultsPerPage": 2
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4KArfTb0LmSqafF5TzBPVdpvkfw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bd-zoqHSDWY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-21T17:51:57Z",
+                "channelId": "UCGVjnOcshwruCQmeZ0b5dfw",
+                "title": "BONO S/ 35,000 SOLES GRATIS PARA NEGOCIOS RUC 10 Y 20: PROGRAMA DE EMERGENCIA EMPRESARIAL",
+                "description": "En este video te cuento del Programa del Estado para reactivar PYMES. Otorgando subsidios de hasta S/ 35,000 a negocios con RUC 10 y 20\n\n#Bonos #Subisidios #ApoyoAPymes\n\nSi deseas reservar una asesoría personalizada escribe al Whatsapp +51 933 090 766\n https://wa.me/+51933090766\n\nPuedes revisar más información sobre negocios, inversiones y consejos para tu economía aquí ✅💻: https://fstnegocios.com/\n\n📢 SUSCRIBETE AQUI  👉👉👉 https://www.youtube.com/c/FSTNEGOCIOS\n\nSíguenos por redes:\n\nFACEBOOK https://fstnegocios.com/\nTWITTER https://twitter.com/FstNegocios\nINSTAGRAM  https://www.instagram.com/fstnegocios/\nLINKEDIN https://www.linkedin.com/in/freddy-si... \n\nSi deseas generar tus propios ingresos utiliza gratis nuestra APP VIEXVI.\n\nDescárgala aquí:\nAPP para vender experiencias en Android:\n✅https://bit.ly/3pE0sXO\n\nAPP para vender experiencias en APPLE: \n✅https://apple.co/3zeQgbA\n\nWeb de VIEXVI: \n✅https://www.viexvi.com/#/\n\n📌Copyright©2021  All Rights Reserved.\n\n¿Qué es el Programa de Emergencia Empresarial?\nEl Programa de Emergencia Empresarial es un fondo concursable y no reembolsable que se enmarca dentro del Plan Nacional de Diversificación Productiva, y cuyo operador es el Programa Nacional de Desarrollo Tecnológico e Innovación - ProInnóvate.\nEsta iniciativa busca cofinanciar la transferencia de conocimientos, así como la adopción y adaptación tecnológica de las mipymes, a fin de que puedan adecuar y/o mejorar sus actividades, afrontando de mejor manera los desafíos para su reactivación económica.\n\nCofinanciamos hasta\n\nS/ 35,000\n(Por cada Mype)\n\nDirigida a las mypes que hayan sufrido caídas en ventas superiores al 20% en el último año.\n\n¿Qué proyectos son elegibles?\n\n\nEn esa línea, podrán implementar:\n\nDiseño industrial o gráfico, empaque y embalaje.\nOptimización de la administración y logística de la cadena de suministros.\nPrueba de productos o servicios.\nComercio digital y/o marketing digital.\nGestión de canales (surtido y fijación de precios, planificación de promociones/campañas, gestión de previsión e inventarios, análisis de datos, entre otros).\nContratación de servicios de plataforma para venta virtual.\nReingeniería de procesos, rediseño de planta.\nCosteo de procesos, planificación y control de la producción.\nSeguridad y salud ocupacional, protocolos de bioseguridad por COVID-19.\nIncorporación de herramientas TIC.\nDiseño y desarrollo de productos.\nLogística y trazabilidad.\nEficiencia energética, entre otros.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bd-zoqHSDWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bd-zoqHSDWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bd-zoqHSDWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bd-zoqHSDWY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bd-zoqHSDWY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FST NEGOCIOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-21T17:51:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aPoDbjMPKH9XH7gXDoQm2wL9Nbw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lm6nsU4kN78"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-16T13:56:38Z",
+                "channelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
+                "title": "¿Cómo inscribirme a Pensión 65? | LR+ Economía",
+                "description": "¿Cómo inscribirme a Pensión 65? En #LREconomía conversamos con Mabel Gálvez, directora ejecutiva de Pensión 65. Además, conoce el precio del dólar HOY.\n\n● Suscríbete: https://bit.ly/2EehQrb\n\n● Más noticias: http://larepublica.pe/\n● Facebook: https://bit.ly/2sjWliZ\n● Twitter: https://bit.ly/2GxXGu5\n● Instagram: https://bit.ly/2JiVE2J\n#LaRepública",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lm6nsU4kN78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lm6nsU4kN78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lm6nsU4kN78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lm6nsU4kN78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Lm6nsU4kN78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "La República - LR+",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-16T13:56:38Z"
+            }
+        }
+    ]
+}

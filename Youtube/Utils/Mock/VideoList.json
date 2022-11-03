@@ -1,0 +1,2167 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "kElPKJisdqMFyk0G7P6DhVdRsUg",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "EC",
+    "pageInfo": {
+        "totalResults": 168,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PyCaUnMGWeqMXXslEoGKgSHfJeQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H5V_fmnJ33w"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-23T03:08:09Z",
+                "channelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
+                "title": "Bono Techo Propio 2022: Conoce los requisitos y modalidades para aplicar al subsidio",
+                "description": "El gerente general del fondo Mivivienda, José Carlos Forero, explicó cómo solicitar y aplicar al programa Techo Propio.\n\n#RPPNoticias. La voz de todo el Perú. Noticias del Perú y el mundo, las 24 horas del día.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H5V_fmnJ33w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H5V_fmnJ33w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H5V_fmnJ33w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H5V_fmnJ33w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H5V_fmnJ33w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RPP Noticias",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-23T03:08:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EOQDSp4UDVDMuWrcQ1hSKrRw_uw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qa-nXFE8yTM"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-22T17:22:56Z",
+                "channelId": "UC_6XOaS5cx5aX6tsT0zimkw",
+                "title": "¿Cómo SABER si me han DEPOSITADO 💰 del PROGRAMA JUNTOS ? | BIEN EXPLICADO",
+                "description": "Hola!\nTe enseño paso a paso a ¿Cómo SABER si me han DEPOSITADO del PROGRAMA JUNTOS? TODO BIEN EXPLICADO\n#ProgramaJuntos #MiJuntos\n\nMas info sobre el Programa Juntos:\n👉 https://www.gob.pe/4318-programa-nacional-de-apoyo-directo-a-los-mas-pobres-juntos-que-hacemos\n\nCconsulta web:\n👉 https://intranet.juntos.gob.pe/mijuntos1/\n\nEl Programa Nacional de Apoyo Directo a los más Pobres (Juntos), del Ministerio de Desarrollo e Inclusión Social (Midis), ha cumplido el viernes pasado 16 años de creación, aniversario que resulta propicio para analizar su impacto y determinar si cumple los objetivos fijados en su instauración.\nJuntos es un programa de asistencia social cuyo objetivo es promover el acceso a servicios de calidad en salud y educación a las familias más pobres del país. Para conseguirlo, entrega una ayuda económica de 200 soles cada dos meses a los hogares situados por debajo de la línea de pobreza.\n\nSe trata de un apoyo condicionado, pues, para recibirlo, las familias deben acreditar que llevan a sus hijos menores hasta los 14 años de edad a los controles sanitarios, así como a la escuela. Se busca propiciar que los niños y adolescentes se encuentren en buen estado de salud, libres de anemia, por ejemplo, pues de ese modo estarán en mejores condiciones para aprender.\n\n🕛 Línea de Tiempo:\n00:00 Información sobre el Programa Juntos\n06:33 Consultar por Web\n10:09 Consultar por Aplicación Móvil\n\nOTROS VIDEOS\n✅ ¿Cómo sacar Antecedentes Policiales?\n👉https://www.youtube.com/watch?v=qrPLtJPpMe4\n\n✅ ¿Cómo sacar Antecedentes Penales?\n👉https://www.youtube.com/watch?v=aLQ_bH_zU9k\n\n✅ ¿Cómo hacer Recargas Virtuales por Internet desde la app del BCP? Actualizado 👉https://www.youtube.com/watch?v=9qiD2wXiNkU\n\n👉SUSCRÍBETE A MI CANAL Y ACTIVA LA CAMPANITA 🔔\nhttps://www.youtube.com/channel/UC_6XOaS5cx5aX6tsT0zimkw\n\nSÍGUEME EN MIS REDES SOCIALES\n💻FACEBOOK 👉https://www.facebook.com/eddercipra\n🐦TWITTER 👉https://twitter.com/EdderCipra\n📷INSTAGRAM 👉https://www.instagram.com/eddercipra/\n📱LINKEDIN 👉https://www.linkedin.com/in/eddercipra",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qa-nXFE8yTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qa-nXFE8yTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qa-nXFE8yTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qa-nXFE8yTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qa-nXFE8yTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Edder Cipra ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-22T17:22:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RgvAFwEFJ_wdHNzFQwBgkpDAMBA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W-oZcG2MBS8"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-24T18:59:40Z",
+                "channelId": "UCuiHAQYUu2HKkGR7sE_nLVw",
+                "title": "ENTREVISTA PROGRAMA “JUNTOS” DE MIDIS FORTALECE  ATENCIÓN  A SECTORES VULNERABLES AFECTADOS POR COVI",
+                "description": "JESSICA NIÑO DE GUZMÁN\n DIRECTORA EJECUTIVA DEL PROGRAMA JUNTOS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W-oZcG2MBS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W-oZcG2MBS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W-oZcG2MBS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W-oZcG2MBS8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Jurado Nacional de Elecciones",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-24T18:59:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oGTQiEwe4tO2ik47AXIXuw_O4Lk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YZJB4W69q2Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-07T18:59:52Z",
+                "channelId": "UCpnqp4LDGbt2_5GGAQ42LMg",
+                "title": "CONSULTA LINK de BONO ALIMENTARIO 270 SOLES y MIDIS ya TIENE PADROS de BENEFICIARIOS OFICIAL",
+                "description": "🚨LINK: https://operaciones.sisfoh.gob.pe:450/cse/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YZJB4W69q2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YZJB4W69q2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YZJB4W69q2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YZJB4W69q2Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YZJB4W69q2Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRAMITES PERU",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-07T18:59:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FjhBc2ATNdB9fjt-rnMBsbpxfm8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xHJeFaCrznk"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-22T20:30:47Z",
+                "channelId": "UCgL4tk3I7f6EjGF6jSRN8ng",
+                "title": "Requisitos para ser usuario del programa Pensión 65",
+                "description": "[COMPARTE] 📢✔️\nPara que los adultos mayores sean usuarios de Pensión 65 y reciban la subvención económica deben cumplir requisitos donde intervienen el @ReniecPerú, el @MIDIS - SISFOH, y las municipalidades del país.\n\nMás información en el siguiente enlace 👉 https://bit.ly/I_P65 \n\n💡Recuerda: ¡Todo trámite es gratuito!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xHJeFaCrznk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xHJeFaCrznk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xHJeFaCrznk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xHJeFaCrznk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xHJeFaCrznk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIDIS - Pensión 65",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-22T20:30:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l2akEwWoxiNQbcKKGvzxDOwGta0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "988Sl8KFNTI"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-30T14:17:42Z",
+                "channelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
+                "title": "Gobierno aprueba subvención extraordinaria para Juntos, Contigo y Pensión 65",
+                "description": "“A fin de menguar el problema del hambre en el país se ha destinado un monto extraordinario para Pensión 65, Contigo y para el programa Juntos”, sostuvo en RPP William Contreras, viceministros de prestaciones sociales del MIDIS\n\n#RPPNoticias. La voz de todo el Perú. Noticias del Perú y el mundo, las 24 horas del día.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/988Sl8KFNTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/988Sl8KFNTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/988Sl8KFNTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/988Sl8KFNTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/988Sl8KFNTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RPP Noticias",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-30T14:17:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f-S-xi8T6k1djNK9NNho8CA2c5I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ga2xvM02cws"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-12T04:07:18Z",
+                "channelId": "UCO53XQbMcgwN8Hspv4gsXDg",
+                "title": "BONO NIÑOS – MI JUNTOS: REVISA SI TU HIJO O HIJA RECIBIRÁ BONO S/ 200",
+                "description": "El Bono Niños (Mi Juntos) es un subsidio económico que otorga el Ministerio de Desarrollo e Inclusión Social en el marco de la crisis por el coronavirus. \nEste beneficio monetario consta de 200 nuevos soles, mismos que se entregarán a las madres, padres o apoderados de niños que no tengan más de 24 meses de vida y que cumplan con ciertos requisitos.\n1. SUSCRIBETE A NUESTRO CANAL: \nhttps://www.youtube.com/channel/UCO53XQbMcgwN8Hspv4gsXDg?view_as=subscriber\n2.  Enlace Mijuntos: \nintranet.juntos.gob.pe/mijuntos1/\n3. SISFOH: actualiza AQUÍ los datos de tu hogar\nhttps://operaciones.sisfoh.gob.pe/sigtal/dondeVives",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ga2xvM02cws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ga2xvM02cws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ga2xvM02cws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ga2xvM02cws/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ga2xvM02cws/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JUAN PABLO TV-PLUS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-12T04:07:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bTOgsHEYbefFpUNliyZHtQ-feFk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "soTjDnL9I6Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-15T22:10:52Z",
+                "channelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
+                "title": "Bono Alimentario en el Perú: quiénes son beneficiarios, monto a pagar y desde cuándo",
+                "description": "La entrega del Bono Alimentario fue oficializada recientemente por el Gobierno y tendrá dos grupos de beneficiarios: Los afiliados a los programas sociales estatales y las familias vulnerables que serán seleccionadas por el Ministerio de Desarrollo e Inclusión Social (Midis).\n\n#RPPNoticias. La voz de todo el Perú. Noticias del Perú y el mundo, las 24 horas del día.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/soTjDnL9I6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/soTjDnL9I6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/soTjDnL9I6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/soTjDnL9I6Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/soTjDnL9I6Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RPP Noticias",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-15T22:10:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bSQlrjYHccjQ7V1g2YgIsmx7zWU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vmyQTmMe1AU"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-06T14:43:09Z",
+                "channelId": "UCkZCoc42IipR1ucqJmIehsA",
+                "title": "Requisitos para acceder al Programa Pensión 65",
+                "description": "Para Marcando Agenda, el director ejecutivo de Pensión 65, Julio Mendigure Fernández, explicó los requisitos para acceder al programa nacional. Remarcó que esta iniciativa es en beneficio de los adultos mayores en pobreza extrema.\n\nMás información aquí ►http://bit.ly/2ueBReq\n\nSÍGUENOS TAMBIÉN EN:\nSitio web ►http://www.tvperu.gob.pe/informa\nFacebook ►https://www.facebook.com/noticias.tvperu/\nTwitter ►https://twitter.com/noticias_tvperu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vmyQTmMe1AU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vmyQTmMe1AU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vmyQTmMe1AU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vmyQTmMe1AU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "TVPerú Noticias",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-07-06T14:43:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gJgk9X1jtTQ3xfMpCLcwWj80sOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M8V4uB5-NMk"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-09T18:06:19Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "¿Conoces los Programas Sociales de ayuda del gobierno? ¿En qué consisten?",
+                "description": "En este video te informo acerca de los programas de ayuda social del gobierno, conoce cuales son y en qué consisten actualizado 2020.\n\nLINK DE LOS PROGRAMAS SOCIALES: http://www.sisfoh.gob.pe/ciudadania/que-es-la-clasificacion-socioeconomica-cse/programas-sociales-y-de-subsidios-del-estado-que-emplean-la-clasificacion-socioeconomica-cse",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M8V4uB5-NMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M8V4uB5-NMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M8V4uB5-NMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M8V4uB5-NMk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M8V4uB5-NMk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-09T18:06:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3fi86sG3ez7Bqlzyn7Iu1TEeCLg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WaQMwGkQR2w"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-15T13:40:22Z",
+                "channelId": "UCYG5uXS3xdsoaXIxum1pAEw",
+                "title": "Bono Juntos: ¿Cómo saber si ya me depositaron y dónde me toca cobrar?",
+                "description": "Al respecto del tema consultamos a Felipe Chu Wong, coordinador del programa, quien hizo valiosos apuntes\n\nSurgen noticias importantes, en medio de la contingencia coronavirus y los estragos que sigue provocando la temida pandemia a todo nivel. ¿Cómo saber si ya me depositaron el 'Bono Juntos' y dónde me toca cobrar? Al respecto del tema consultamos a Felipe Chu Wong, coordinador del programa, quien hizo valiosos apuntes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WaQMwGkQR2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WaQMwGkQR2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WaQMwGkQR2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WaQMwGkQR2w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ATV Noticias",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-15T13:40:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r4ZlRFPU4jhDl2OFlmk-RittKEU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CShl4XTjjyE"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-18T00:38:08Z",
+                "channelId": "UCUbBS0hgismJcIKcMZLnjZg",
+                "title": "PENSIÓN PARA PERSONAS CON DISCAPACIDAD SEVERA, REGÍSTRATE VIRTUALMENTE ( PROGRAMA CONTIGO)",
+                "description": "Portal del programa contigo mesa de partes https://contigo.gob.pe/2020/midis-implementa-mesa-de-partes/\nAfiliacion aqui descarga el formato pc1000 https://contigo.gob.pe/afiliacion/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CShl4XTjjyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CShl4XTjjyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CShl4XTjjyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CShl4XTjjyE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CShl4XTjjyE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Shirley tv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-18T00:38:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q0tKKwXqJ_seXV9jo5v873KbMww",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rUPVVaAOv2U"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-26T18:34:10Z",
+                "channelId": "UCodT5dbWWPzJX8a9h6qDZ6A",
+                "title": "Bono Niños 200 soles 2022: Pasos y link de consulta del Bono de 200 soles mensuales | Link oficial",
+                "description": "El Ministerio de Desarrollo e Inclusión Social (Midis) está entregando un bono de 200 soles a las familias que se encuentran en condiciones de pobreza o pobreza extrema con hijos de 0 a 2 años de edad.\nAquí te traemos los detalles.\n#bononiños #bono200soles #link #midis #linkoficial #linkdeconsulta #beneficiarios #midis #link #bono #noticiasperu #loultimo #peru #Infomercado\n\nLink de consulta Bono 200 soles:\n https://intranet.juntos.gob.pe/mijuntos1/\n\nWhats App Plus: Detalles que debes conocer sobre esta aplicación👇\nhttps://youtu.be/GIm79Yulzo0\n\n¿Cómo saber si estoy en la ONP?👇\nhttps://youtu.be/eWCgEtV7Zm8\n\nNuestras redes sociales 👇\nEncuéntranos en Facebook: https://www.facebook.com/infomercadoperu \nSíguenos en Instagram: https://www.instagram.com/infomercadoperu \nSíguenos en Tik Tok: https://www.tiktok.com/@infomercadoperu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rUPVVaAOv2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rUPVVaAOv2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rUPVVaAOv2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rUPVVaAOv2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rUPVVaAOv2U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Infomercado",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-26T18:34:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GbQPhGRl3YDglBeUmX9F9WRDCPg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F9yBDXXXEY8"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-15T14:36:50Z",
+                "channelId": "UCa3BK6QMcxdsVUXvYL1TwEg",
+                "title": "Entrevista a la Directora Ejecutiva del programa Juntos en TV Perú",
+                "description": "Directora ejecutiva del programa Juntos, Jessica Niño de Guzmán habla sobre el trabajo que realiza el programa Juntos, en beneficio de los hogares más vulnerables del país.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F9yBDXXXEY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F9yBDXXXEY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F9yBDXXXEY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F9yBDXXXEY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F9yBDXXXEY8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIDISJUNTOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-15T14:36:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GreCCWeY7IyZCxeW8IaE8oO3ZZo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6W87tI58RDw"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-17T00:06:31Z",
+                "channelId": "UCN2QmKIxqqCEGmqtdXopkJA",
+                "title": "Programa JUNTOS",
+                "description": "Animación 2D para Programa JUNTOS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6W87tI58RDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6W87tI58RDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6W87tI58RDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6W87tI58RDw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6W87tI58RDw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Video Futura SAC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-10-17T00:06:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T1BT17VNLDZv0CwdzjkNathXXkg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YBmvDl1P19Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-25T02:53:07Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "Gobierno anunció la entrega de 2 nuevos bonos para este año 2022",
+                "description": "Hoy en conferencia de prensa el gobierno anunció que se aprobó la entrega de dos nuevos bonos para este año 2022",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YBmvDl1P19Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YBmvDl1P19Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YBmvDl1P19Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YBmvDl1P19Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YBmvDl1P19Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-25T02:53:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_o474kLAb2aak3K69M8liStEaAQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IPNhVARjwmQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-14T17:16:48Z",
+                "channelId": "UCJDY8-a-C7zyUFsQ7dewC5g",
+                "title": "¡Actualizado 2021! Mira Como Empadronarte en el SISFOH Para Recibir Futuros Bonos del Estado",
+                "description": "*Plataforma SIGTAL para actualizar nuestra Clásificacion Socioeconómica: https://operaciones.sisfoh.gob.pe/sigtal/dondeVives\n\n¡Actualizado 2021! Mira Como Actualizar tu Clasificación Socioeconómico y Empadronarte  en el SISFOH Para Recibir Futuros Bonos del Estado",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IPNhVARjwmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IPNhVARjwmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IPNhVARjwmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IPNhVARjwmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IPNhVARjwmQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Psico Master",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-14T17:16:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k_euXvaltITHK_YeE1kY62rZIrc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f_6cQDnD8sE"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-09T17:43:10Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "Publican los requisitos oficiales del Bono Alimentario 270 soles ¿Cumples estos requisitos?",
+                "description": "Se publicó en el diario oficial e peruano el D.S. 003-2022-MIDIS que reglamenta la Ley del bono alimentario estableciendo cuales son los requisitos de los hogares que recibirán dicho bono.\n\nAquí los detalles.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f_6cQDnD8sE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f_6cQDnD8sE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f_6cQDnD8sE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f_6cQDnD8sE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f_6cQDnD8sE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-09T17:43:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KTbtBdQixMrpEQu6kvW4fMmVAKs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QoQD8TeOi9I"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-25T17:46:31Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "Bono Yanapay 2022 |Todo lo que tienes que saber sobre el pago de este bono 2022",
+                "description": "Bono Yanapay 2022\n\nTodo lo que tienes que saber sobre la entrega del bono yanapay 2022.\n\nAquí los detalles.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QoQD8TeOi9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QoQD8TeOi9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QoQD8TeOi9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QoQD8TeOi9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QoQD8TeOi9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-25T17:46:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PG6tyQOMlBeoXnUnLWr3phm_CqU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_K4D4Ocki9o"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-15T15:21:53Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "Bono Alimentario 2022 !Hoy inicia el pago de estos 3 bonos! |Bono 200 |Bono 250 |Bono 300",
+                "description": "El MIDIS informó que hoy inicia el pago de estos  3 bonos.\n\nBONO ALIMENTARIO 2022.\n#bono200soles\n#bono250soles\n#bono300soles\n#bono270soles",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_K4D4Ocki9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_K4D4Ocki9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_K4D4Ocki9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_K4D4Ocki9o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_K4D4Ocki9o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-15T15:21:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oo8QRWjecarmdFU6uH8BA7ZxUac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "474P6xd4q5Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-16T14:42:27Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "Así está conformado el padrón del Bono Alimentario 2022 |Son 6 millones de beneficiarios",
+                "description": "Padrón de beneficiarios del Bono Alimentario 2022.\n\nBONO ALIMENTARIO 2022.\n#bono200soles\n#bono250soles\n#bono300soles\n#bono270soles",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/474P6xd4q5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/474P6xd4q5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/474P6xd4q5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/474P6xd4q5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/474P6xd4q5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-16T14:42:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "akXNMQ6BF51V93Ta-Q7v6WtLgPc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AaEEmV7Pvcc"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-01T13:54:03Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "BONO ALIMENTARIO 270 LINK DEL PADRÓN SISFOH",
+                "description": "LINK DEL PADRÓN SISFOH: https://bit.ly/SISFOH-ACTUALIZALO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AaEEmV7Pvcc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AaEEmV7Pvcc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AaEEmV7Pvcc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AaEEmV7Pvcc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AaEEmV7Pvcc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-01T13:54:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6folALzADq3D4NtA4ixqgfKgp1E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MrZk9lTl2SA"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-19T22:59:34Z",
+                "channelId": "UChzS9L4GwAe0lRFallqbaGg",
+                "title": "Nuevo BONO YANAPAY 2022: Todo lo que debes saber sobre la entrega de este subsidio",
+                "description": "El #Bono #Yanapay, uno de los subsidios más populares del #Perú, volverá a entregarse próximamente para beneficiar  a miles de peruanos en situación de vulnerabilidad. Entérate en este video quienes pueden cobrar este bono, cuál es el monto y cuando se podría cobrar.\n\n\nCanal oficial del diario Trome de Lima, Perú. \n\nSuscríbete: https://bit.ly/2m0W5Yj\n\nSitio web: https://trome.pe/\n\nTAMBIÉN SÍGUENOS EN:\nFacebook: https://www.facebook.com/Tromepe/\nTwitter: https://twitter.com/tromepe\nInstagram: https://www.instagram.com/tromeoficial/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MrZk9lTl2SA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MrZk9lTl2SA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MrZk9lTl2SA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MrZk9lTl2SA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MrZk9lTl2SA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trome Perú",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-19T22:59:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zPzi6eQqmlxvk8oMxT3aP3oNb7c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ypZtnNATJRs"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-07T18:00:37Z",
+                "channelId": "UCGVjnOcshwruCQmeZ0b5dfw",
+                "title": "¿PUEDEN QUITARME LA CASA POR UNA DEUDA EN BANCOS?",
+                "description": "Hola fstubers!! Bienvenidos!! \n\nEn este video te presento  \nTe explico cuándo podrías perder tu casa por una deuda bancaria\n\nBúscanos como fst negocios en todas las redes sociales. Tenemos los mejores podcast de negocios en Spotify. \n\n\nTe invito a visitar mi página web www.fstnegocios.com\n\nAsimismo, te invito a que te suscribas al canal de YouTube: \n\nSíguenos por redes:\n\nFACEBOOK https://fstnegocios.com/\nTWITTER https://twitter.com/FstNegocios\nINSTAGRAM  https://www.instagram.com/fstnegocios/\nLINKEDIN https://www.linkedin.com/in/freddy-silva-tuesta-b845a21b0/ \n\nPARA ADQUIRIR PRODUCTOS Y SERVICIOS DE CLARO PARA NEGOCIOS DALE CLICK AQÚI:\nhttps://www.facebook.com/claronegociosvirtual\n\n#ElMejorAsesorDeNegocios #fstnegocios #MundoCEO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ypZtnNATJRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ypZtnNATJRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ypZtnNATJRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ypZtnNATJRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ypZtnNATJRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FST NEGOCIOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-07T18:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W49-b59ck5zLFC38Q3-7lGde0k8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ql7D41bXxrI"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-02T22:51:14Z",
+                "channelId": "UCvz_-aYxlrqzJ6mpamWk8EQ",
+                "title": "Bono Alimentario S/270 Revisa en el LINK Oficial de PADRON DEL SISOFH nivel socioeconomico mira AQUI",
+                "description": "Revisa Aqui en el SISOFH SI TU ES POBRE 👉https://operaciones.sisfoh.gob.pe:450/cse/\nPara recibir el Bono Alimentario S/270 .\n#bonoalimentario #bonoyanapay #midis",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ql7D41bXxrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ql7D41bXxrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ql7D41bXxrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ql7D41bXxrI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "CaushaPerú",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-02T22:51:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v1HoLYgJNQRbNX8AteUEVGjV6jg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d6oyIgE1YZo"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-02T02:53:20Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "¿COMO SABER SI ESTOY EN EL SEGUNDO GRUPO DE BENEFICIARIOS? -BONO ALIMENTARIO",
+                "description": "REGISTRATE EN EL PADRON SISFOH: https://bit.ly/SISFOH-ACTUALIZALO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6oyIgE1YZo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6oyIgE1YZo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6oyIgE1YZo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d6oyIgE1YZo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d6oyIgE1YZo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-02T02:53:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ughIGd8xK2N-mbn_Ji_fpQfXOss",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9Or-j3Mfgbg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-09T14:35:24Z",
+                "channelId": "UCqtcCFjSms3mLpO2oo0aGjA",
+                "title": "Bono Alimentario 2022 ¿Qué monto me corresponde? |Se entregará nuevo bono en 4 gruos distintos",
+                "description": "Nuevo Bono 2022\n¿Qué monto me corresponde?\nBono 200 soles.\nBono 250 soles.\nBono 270 soles.\nBono 300 soles.\n\nAquí los detalles.\n#bono200soles\n#bono250soles\n#bono300soles\n#bono270soles",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Or-j3Mfgbg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Or-j3Mfgbg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Or-j3Mfgbg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9Or-j3Mfgbg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9Or-j3Mfgbg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TRIBUTA y CONSULTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-09T14:35:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XvDlhiiGYSYsqql_SxOiXDSwlP4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1c01aaBhVPE"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-29T17:52:29Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "¿COMO ESTAR DENTRO DE LA LISTA DE BENEFICIARIOS DEL BONO 270 SOLES?",
+                "description": "REGISTRATE HASLO AQUI: https://bit.ly/SISFOH-ACTUALIZALO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1c01aaBhVPE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1c01aaBhVPE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1c01aaBhVPE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1c01aaBhVPE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1c01aaBhVPE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-29T17:52:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "za0obhTcBlpxTD6KdKnSSWkwyD0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "m3l3Rtx8CFc"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-10T17:07:56Z",
+                "channelId": "UC8w7D59-kGN4Pu9eoyTsbyQ",
+                "title": "CONFIRMADO: BONO DE S/200 SI SE PAGARÁ SEGUN EL ÚLTIMO COMUNICADO DEL PROGRAMA JUNTOS. MIDIS JUNTOS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m3l3Rtx8CFc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m3l3Rtx8CFc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m3l3Rtx8CFc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m3l3Rtx8CFc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "LIKE PERÚ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-10T17:07:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_x_6Y9llpUW-CE96eXSuMtFosVw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0hNZRgLr_fo"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-07T16:19:31Z",
+                "channelId": "UCpF98ee0LNFvy6opNN4QCzA",
+                "title": "Bono Techo Propio 2022 - Requisitos, Donde Inscribirse y Otros detalles",
+                "description": "Bono Techo Propio 2022 - Requisitos, Donde Inscribirse y Otros detalles\nMas Información: https://www.portaltrabajos.pe/2022/01/bono-techo-propio-2022.html\n\n👉 Bienvenidos a Portal Trabajo Perú, donde compartiremos videos de Noticias, Guiás, Tutoriales, Oportunidades y Otros.\n\n! Les invitamos a SUSCRIBIRSE a nuestro canal para enviarte un notificación cada vez que subimos un video!\n\n🔴 Suscribete aqui: https://bit.ly/3j68lzs\n\n📱 Siguenos aqui: https://www.facebook.com/portaltrabajo.peru\n\n🎈 Comunidad: https://bit.ly/2FSwrzC\n\n🅾️ https://www.instagram.com/portaltrabajos/\n\n🔗 Pagina Web: https://www.portaltrabajos.pe/\n\n★ PORTALTRABAJO: DESCARGA LA APP Y RECIBE LAS NOTIFICACIONES DE EMPLEO Y NOTICIAS EN TU CELULAR\n\n► LINK DE DESCARGA: http://goo.gl/g5BN4U",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0hNZRgLr_fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0hNZRgLr_fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0hNZRgLr_fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0hNZRgLr_fo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0hNZRgLr_fo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Portal Trabajo Perú",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-07T16:19:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RonGngMmQ2oMwrt7a1FIwnp8_V0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ud8U9sQt4Xg"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-25T19:03:52Z",
+                "channelId": "UCGVjnOcshwruCQmeZ0b5dfw",
+                "title": "CASA Y DEPA GRATIS CON TECHO PROPIO 2022: Nuevos requisitos y cómo ganar más de un Bono por Familia",
+                "description": "Cómo puedes ganar más de un BONO de #TechoPropio por familia y tener tu #CasaGratis o #DepaGratis\n\nBienvenidos FSTUBERS\nTE INVITO A SUSCRIBIRTE GRATIS A MI CANAL FST NEGOCIOS\nSi deseas mucha información gratuita para tu economía, tu bolsillo y tu negocio puedes visitar mi página web:\nhttps://fstnegocios.com/\nO mis redes sociales:\n— Redes Sociales — \n- Instagram (FSTNEGOCIOS): https://www.instagram.com/fstnegocios/\n- Facebook (FST NEGOCIOS): https://www.facebook.com/fstnegocios/\n- Linkedin (Freddy Silva Tuesta): https://www.linkedin.com/in/freddy-silva-tuesta-b845a21b0/\n-Tiktok (fstnegocios): https://www.tiktok.com/@fstnegocios?lang=es\n- Twitter (fstnegocios): https://twitter.com/FstNegocios\n\nSi quieres saber como usar la nueva APP VIEXVI para negocios de turismo mira este video: https://youtu.be/pckOULoShE8\nTe cuento que podemos hacer un video y promocionar tus experiencias. Sólo escríbenos a experiencias@viexvi.com.\nTe invitamos a mostrar tus experiencias por VIEXVI y ganar dinero: \nDESCARGA EN ANDROID (GOOGLE): https://play.google.com/store/apps/details?id=com.kyaemp.luxury.viexvi&hl=es_PE&gl=US \nDESCARGA EN iOS (APPLE) \nhttps://apps.apple.com/pe/app/viexvi/id1564145798\n\nBlog de Freddy Silva Tuesta en Facebook con consejos para tu economía tu bolsillo y tu negocio:\nhttps://www.facebook.com/Freddy-Silva-Tuesta-238990114690010\n\n¿QUÉ ES EL PROGRAMA TECHO PROPIO?\n\nEs un programa dirigido a las familias con ingresos familiares mensuales que no excedan el valor de S/ 3,715 para comprar y S/ 2,706 para construir o mejorar su vivienda, la misma que contará con servicios básicos de luz, agua, desagüe.\n\n¿CUÁL ES EL BENEFICIO DEL PROGRAMA TECHO PROPIO?\n\nEl Bono Familiar Habitacional  – BFH, el cual es un subsidio directo que otorga el Estado a una familia de manera gratuita como premio a su esfuerzo ahorrador y no se devuelve. El valor del Bono varía de acuerdo a la modalidad a la que la familia postule:\n\nPara COMPRAR su vivienda el Bono es de S/ 40,250*\nPara CONSTRUIR su vivienda el Bono puede ser de S/ 27,600**\nPara MEJORAR su vivienda el Bono es de S/  10,580\n*Monto del BFH aprobado por Resolución Ministerial N° 397-2021-VIVIENDA hasta el 31 de diciembre de 2022.\n\n**Monto del BFH aprobado por Resolución Ministerial N° 404-2021-VIVIENDA hasta el 31 de diciembre de 2022.\n\n \n\nEl Programa Techo Propio El Programa Techo Propio está dirigido exclusivamente a familias de bajos recursos económicos para que puedan comprar, construir o mejorar su vivienda, la misma que contará con servicios básicos de luz, agua y desagüe. El principal beneficio del Programa Techo Propio es el Bono Familiar Habitacional – BFH, el cual es un subsidio directo que otorga el Estado a una familia como premio a su esfuerzo ahorrador, por única vez y no se devuelve. \n\nRequisitos de Elegibilidad para acceder al BFH:\n\n Conformar un Grupo Familiar (GF): Debe estar conformado por un Jefe de Familia, que declarará a uno o más dependientes que pueden ser: su esposa, su conviviente, sus hijos, hermanos o nietos menores  de 25 años o hijos mayores de 25 años con discapacidad, sus padres o abuelos.\n\n No haber recibido apoyo habitacional del Estado (Enace, Fonavi, BANMAT o el FMV).\n\n El Ingreso Familiar Mensual – IFM neto no debe exceder de S/ 3,715  (aplicable a la Jefatura Familiar).\n\n No tener vivienda, terreno propio o aires independizados para vivienda a nivel nacional\n\n¿EN QUÉ CONSISTE LA MODALIDAD DE ADQUISICIÓN DE VIVIENDA NUEVA – AVN?\n\nEsta modalidad está dirigida a las familias que no tienen vivienda ni terreno para que compren una Vivienda de Interés Social (VIS) o VIS Priorizada con ayuda del Bono Familiar Habitacional – BFH.\nEl valor de las viviendas hasta S/ 109,200\nEl Bono Familiar Habitacional – BFH es un premio a tu esfuerzo ahorrador y no se devuelve.\n¿CUAL ES EL VALOR DEL BONO?\n\nEl valor del Bono Familiar Habitacional depende del valor de la vivienda a comprar:\n\n\n\n(*)Monto del BFH aprobado por Resolución Ministerial N° 397-2021-VIVIENDA hasta el 31 de diciembre de 2022.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ud8U9sQt4Xg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ud8U9sQt4Xg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ud8U9sQt4Xg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ud8U9sQt4Xg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ud8U9sQt4Xg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FST NEGOCIOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-25T19:03:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H7a7V0ZN2mSAFaT8W2PEFOzcjEM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ofFTotGzsgA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-23T21:44:21Z",
+                "channelId": "UCDscRlCxFfuHhsJBlVvPBmA",
+                "title": "Todo lo que debes saber sobre el programa Pensión 65 | ABC de las pensiones",
+                "description": "#LPDerecho | Si quieres recibir más contenido de este tipo, entra a nuestra web ► https://lpderecho.pe/ \n\n• Nuestras Redes:\nFacebook ► https://www.facebook.com/lpderecho\nFacebook Watch ► https://www.facebook.com/watch/lpderecho\nTwitter ► https://twitter.com/LPderecho_ \nInstagram ► https://www.instagram.com/lpderecho/\nLinkedin ► https://bit.ly/3iX55Hy\nTikTok ► https://www.tiktok.com/@lpderecho.pe\n\n• Escúchanos:\nSpotify ► https://spoti.fi/2Yh2oYI\niTunes ► https://apple.co/2YSuPv6\nIvoox Podcast ► https://bit.ly/2YUZacg\nIvoox LP ► https://bit.ly/2YfPdHb\nAnchor ► https://anchor.fm/lpderecho\nSpotify Seminarios ► https://spoti.fi/2AKtWNc\n\nNúmero de contacto: +51 921 492 114",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ofFTotGzsgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ofFTotGzsgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ofFTotGzsgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ofFTotGzsgA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ofFTotGzsgA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LP - Pasión por el Derecho",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-23T21:44:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AcxXfA6ZPfWdQ6nrOdWSNLaIl1k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SIiFQKzi_78"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-21T03:38:05Z",
+                "channelId": "UCKnqk4bVeisbvk8NTAbV6Ag",
+                "title": "link OFICIAL del BONO EsSalud 2022 | consulta aquí",
+                "description": "hola chic@s, aquí les dejo el link oficial para verificar si son o no beneficiarios del bono de los 210 soles que esta entregando EsSalud.\n#bono #210 #bono210\n______\nlink:https://bono210.essalud.gob.pe/#/consulta\n_____\n| suscríbete | así me ayuda a seguir creando mas contenido |\n\n✅MIS REDES SOCIALES:\nTIKTOK: https://www.tiktok.com/@asercomasist\n_______________\nSubo contenido de contabilidad y Finanzas.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SIiFQKzi_78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SIiFQKzi_78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SIiFQKzi_78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SIiFQKzi_78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SIiFQKzi_78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Asercom",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-21T03:38:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O3Mgg5r1dLrbFyDHaKjksWkynEo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JvkdSPk58PQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-26T15:01:05Z",
+                "channelId": "UC8w7D59-kGN4Pu9eoyTsbyQ",
+                "title": "✔️NUEVA FORMA DE AFILIARTE AL PROGRAMA JUNTOS PARA EL BONO DE 200. MIRA AQUI  Y AFILIATE YA. AHORA",
+                "description": "LLAMAR AL 1880 NO RESULTA TAN EFECTIVA ASI QUE MEJOR ES LLAMAR A UN PROMOTOR DEL PROGRAMA JUNTOS  POR ELLO TE BRINDAMOS ESTA INFORMACIÓN. \n\nAQUI ESTAN LOS NÚMEROS TELEFÓNICOS DE LOS PROMOTORES A NIVEL NACIONAL.\n\nESTA INFORMACIÓN ES EXCLUSIVAMENTE DE ESTE CANAL, GRACIAS A UNA PROFUNDA INVESTIGACIÓN, PARA FÁCILITAR SU INSCRIPCIÓN DE SU NIÑO MENOR DE 02 AÑOS.👇👇\n\n\nEmpezó la campaña de afiliación temporal para el fortalecimiento del desarrollo infantil.\n\nLos hogares elegidos deben cumplir con los criterios establecidos para ser incorporados voluntariamente en la intervención. Estos criterios son:\nEl hogar debe tener una niña o niño menor de 24 meses con DNI o CUI, además la madre del menor también debe tener DNI.\nEl hogar de residencia de la madre y de la niña o niño debe estar ubicado en un distrito con el 15% o más de pobreza, según el Mapa de Pobreza 2018.\nConoce aquí a los distritos. https://cdn.www.gob.pe/uploads/docume...\n\nEl hogar no debe tener un miembro afiliado al programa Juntos.\nEl hogar no debe tener un miembro en planilla pública o privada.\nEn caso un hogar tenga más de una madre con hija o hijo menor a 24 meses, se considerará a cada madre e hija o hijo como un hogar independiente.\n\nEn caso un hogar tenga una madre con más de una hija o hijo menor de 24 meses, la transferencia económica estará supeditada al cumplimiento de los compromisos asumidos de todos los menores registrados.\n\nLos hogares que participen de esta intervención deben cumplir con llevar a sus menores hijas e hijos a los establecimientos de salud o lugares indicados por el MINSA para recibir sus vacunas de rotavirus y neumococo, y la suplementación con hierro necesaria para prevenir la anemia, para que puedan recibir un abono cada dos meses de 200 soles.\n\nAFILIACIÓN:\nEstá a cargo de los promotores del MIDIS, quienes llamarán a las madres de los hogares que cumplen las condiciones para su afiliación. Conoce a los promotores de tu departamento.👇👇\n\nhttps://www.gob.pe/institucion/juntos...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JvkdSPk58PQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JvkdSPk58PQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JvkdSPk58PQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LIKE PERÚ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-26T15:01:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cb4UAqTN5Ttjl4cpOvkY2G7W5DI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bNWXhbM-gt0"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-30T00:42:08Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "BONO ALIMENTARIO - REVISA SI ERES BENEFICIARIO1 DE SETIEMBRE",
+                "description": "LINK DEL BONO ALIMENTARIO: https://bit.ly/3AyogBZ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bNWXhbM-gt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bNWXhbM-gt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bNWXhbM-gt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bNWXhbM-gt0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bNWXhbM-gt0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-30T00:42:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qn3gkPlr9lIxexHS3PA2ERlisf0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7TA5u2zSmLA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-16T14:51:59Z",
+                "channelId": "UCRv-ozT__r-8HA-_dkA72uA",
+                "title": "*LO ULTIMO BONO 210 Y ONP* NUEVO CRONOGRAMA Y ANALISIS DEL AUMENTO DE LA PENSION MINIMA A 930 SOLES",
+                "description": "En este video te comparto la ultima noticia sobre el cronograma de pago del bono de 210 soles y el análisis de Deysi Castillo sobre el aumento de la pensión mínima de la onp a 930 soles.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7TA5u2zSmLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7TA5u2zSmLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7TA5u2zSmLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7TA5u2zSmLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "LuchiCont",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-16T14:51:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kNCl6CrxaHMLmjaDdOsa_SPJ4RA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NtDvTJAZaz8"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-09T22:28:20Z",
+                "channelId": "UCvDBDpI2MSvibOCRacHYOUw",
+                "title": "PUBLICAN LOS REQUISITOS OFICIALES BONO ALIMENTARIO 270 SOLES ¿VERIFICA SI CUMPLES ESTOS REQUISITOS?",
+                "description": "#BONOALIMENTARIO #BONO270 \nPUBLICAN LOS REQUISITOS OFICIALES BONO ALIMENTARIO 270 SOLES ¿VERIFICA SI CUMPLES ESTOS REQUISITOS?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NtDvTJAZaz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NtDvTJAZaz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NtDvTJAZaz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NtDvTJAZaz8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NtDvTJAZaz8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JOSE FERNANDEZZ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-09T22:28:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PrNlahJ2ps9JDIwSin4Lxu1421w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wztqIs9tb0M"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-09T01:50:53Z",
+                "channelId": "UC8w7D59-kGN4Pu9eoyTsbyQ",
+                "title": "Entrevista: Programa juntos responde todas las dudas de las usuarias del programa.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wztqIs9tb0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wztqIs9tb0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wztqIs9tb0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wztqIs9tb0M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "LIKE PERÚ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-09T01:50:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V9C4pC2duKMvVxhwh_mkIr2aNXQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J7ftvhRrT0E"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-30T18:02:32Z",
+                "channelId": "UCUXHy-MmAGHxoQuW2D1nn2w",
+                "title": "Bono Alimentario 2022/Actualiza tus datos en el SISFOH para recibir el Bono Mira Aquí",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J7ftvhRrT0E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J7ftvhRrT0E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J7ftvhRrT0E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J7ftvhRrT0E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J7ftvhRrT0E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GlimerTv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-30T18:02:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pPpY_eF3GurT2P6K_75CD135tC0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EvPjM5Z2Oow"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-08T23:34:46Z",
+                "channelId": "UCGVjnOcshwruCQmeZ0b5dfw",
+                "title": "NUEVO BONO RENTA JOVEN: CÓMO GANAR 500 SOLES MENSUALES POR 5 AÑOS",
+                "description": "Hola fstubers!! Bienvenidos!! \n\nEn este video te presento  \nComo ganar el bono renta joven 500 soles mensuales por 5 años para las personas entre 18 y 40 años\n\n\nBúscanos como FST NEGOCIOS en todas las redes sociales. Tenemos los mejores podcast en Spotify y los mejores videos en YouTube.\n\nSi quieres ver contenido EXCLUSIVO de consejos para tu economía y tus finanzas UNETE con el siguiente enlace https://www.youtube.com/channel/UCGVjnOcshwruCQmeZ0b5dfw/join\n\n\nTe invito a visitar mi página web \n\nwww.fstnegocios.com\n\nAsimismo, te invito a que te suscribas al canal de YouTube: \n\nSíguenos por redes:\n\nFACEBOOK https://fstnegocios.com/\nTWITTER https://twitter.com/FstNegocios\nINSTAGRAM  https://www.instagram.com/fstnegocios/\nLINKEDIN https://www.linkedin.com/in/freddy-silva-tuesta-b845a21b0/ \n\n#ElMejorAsesorDeNegocios #FreddySilvaTuesta #FSTNegocios\n\nContinúan inscripciones para la segunda y tercera convocatoria del bono Renta Joven\nNota de Prensa\nEstas comprenden las regiones de Cusco, Lambayeque, Piura, Junín, Ica, Tacna. Ayacucho, Cajamarca, Lima y Callao.\n\nOficina General de Comunicaciones\n\n16 de enero de 2020 - 2:27 p. m.\n\nLos jóvenes de 18 a 40 años de edad aún pueden inscribirse en la segunda y tercera convocatoria del Bono de Arrendamiento para Vivienda (BAV), o Renta Joven, y conseguir el subsidio de S/ 500 mensuales, que promueve el Ministerio de Vivienda, Construcción y Saneamiento (MVCS).\n\nLa segunda convocatoria entregará 3 mil bonos y está dirigida a las regiones de Lima y Callao (1000), Cusco (500), Lambayeque (500), Piura (500) y Junín (500). Al momento se registra un total de 2575 inscritos, de los cuales 997 ya fueron declarados como elegibles por el Fondo Mivivienda (FMV).\n\nPara la calificación de los elegibles se consideró el cumplimiento estricto de los requisitos exigidos, como ser padres e hijos, hermanos, esposos, convivientes sin impedimento matrimonial o amigos, cuyos ingresos como grupo no superen los S/ 3538. Además, no deben ser propietarios, ni copropietarios de un inmueble, terreno o aires independizados para vivienda.\n\nLas personas que lograron inscribirse pueden conocer si fueron seleccionados a través de la página web del FMV (www.mivivienda.com.pe). Y los que aún no se inscribieron pueden hacerlo en los Centros de Atención al Ciudadano (CAC) del Ministerio de Vivienda.\n\n• Cusco: Av. Huayruropata N° 1611, distrito de Wanchaq\n\n• Chiclayo: Calle Los Gladiolos 398, Urb. Los Parques\n\n• Huancayo: Pasaje José María Arguedas N° 220, distrito El Tambo\n\n• Piura: Av. Los Cocos 259, Urb. Club Grau, Mz. C Lote 4.\n\nEn Lima y Callao, Vitrina Inmobiliaria, jirón Camaná 199, Cercado.\nTercera convocatoria\n\nLa tercera convocatoria está dirigida a las regiones de Lima y Callao (1000), Ica (500), Tacna (500), Ayacucho (500) y Cajamarca (500). Al momento cuenta con un total de 653 inscritos.\n\nLa primera lista de elegibles se publicará en el transcurso de los siguientes días. Sin embargo, los interesados aún pueden inscribirse en los CAC, de lunes a viernes de 08:00 a 17:00 horas.\n\n• Cajamarca : Jr. Baños del Inca Nº 112, 114, 116 - Ramón Castilla.\n\n• Ayacucho : Jr. Garcilaso de la Vega N°797, Urb. Banco de la Nación M-13\n\n• Ica : Calle Los Nardos 185, Urb. San Isidro\n\n• Tacna : Urb. Viñedos de Grace B-1, Av. General Suárez - Cercado\n\n• Lima : Vitrina Inmobiliaria, Jr. Camaná 199 - Cercado\n\nPara las convocatorias se consideró, según los Censos Nacionales 2017, las ciudades con mayor concentración de jefes o jefas de hogar entre 18 a 40 años de edad que ocupan una vivienda alquilada.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EvPjM5Z2Oow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EvPjM5Z2Oow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EvPjM5Z2Oow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EvPjM5Z2Oow/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EvPjM5Z2Oow/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FST NEGOCIOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-08T23:34:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XYokkRlFDojyw5XsvOKjbnpXYRs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UkVEGlLRZ0g"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-26T17:38:42Z",
+                "channelId": "UCGVjnOcshwruCQmeZ0b5dfw",
+                "title": "BONO ESCOLARIDAD 2022 POR S/ 400 SOLES: Requisitos y quiénes lo recibirán.",
+                "description": "Bono Escolaridad 2022: requisitos y modalidad de pago de los 400 soles\nTe contamos todos los detalles acerca del Bono Escolaridad 2022 que entregará el Gobierno del presidente Pedro Castillo.\n\nBienvenidos FSTUBERS\nTE INVITO A SUSCRIBIRTE GRATIS A MI CANAL FST NEGOCIOS\nSi deseas mucha información gratuita para tu economía, tu bolsillo y tu negocio puedes visitar mi página web:\nhttps://fstnegocios.com/\nO mis redes sociales:\n— Redes Sociales — \n- Instagram (FSTNEGOCIOS): https://www.instagram.com/fstnegocios/\n- Facebook (FST NEGOCIOS): https://www.facebook.com/fstnegocios/\n- Linkedin (Freddy Silva Tuesta): https://www.linkedin.com/in/freddy-silva-tuesta-b845a21b0/\n-Tiktok (fstnegocios): https://www.tiktok.com/@fstnegocios?lang=es\n- Twitter (fstnegocios): https://twitter.com/FstNegocios\nSi deseas saber de la APP VIEXVI para generarte más ingresos entra a este enlace: https://fstnegocios.com/viexvi/\nSi quieres saber como usar la nueva APP VIEXVI para negocios de turismo mira este video: https://youtu.be/pckOULoShE8\nTe cuento que podemos hacer un video y promocionar tus experiencias. Sólo escríbenos a experiencias@viexvi.com.\nTe invitamos a mostrar tus experiencias por VIEXVI y ganar dinero: \nDESCARGA EN ANDROID (GOOGLE): https://play.google.com/store/apps/details?id=com.kyaemp.luxury.viexvi&hl=es_PE&gl=US \nDESCARGA EN iOS (APPLE) \nhttps://apps.apple.com/pe/app/viexvi/id1564145798\n\nBlog de Freddy Silva Tuesta en Facebook con consejos para tu economía tu bolsillo y tu negocio:\nhttps://www.facebook.com/Freddy-Silva-Tuesta-238990114690010\n\nEn este mes de enero, el Estado peruano entregará una bonificación económica de S/. 400, aprobada por el Ministerio de Economía y Finanzas (MEF), llamada “Bonificación por escolaridad” o “Bono Escolaridad 2022″. A continuación, te damos todos los detalles.\n\nLa entrega de este bono se realizará por única vez a los trabajadores del sector público que tengan hijos, como un apoyo para el pago de sus estudios escolares, según el Decreto Supremo Nº 001-2022-EF.\n\nPara recibir el subsidio, los trabajadores públicos deben estar laborando a la fecha de la vigencia de la norma y tener una antigüedad de servicio no menor de tres meses. Cabe mencionar que, el pago del Bono Escolaridad ya inició.\n\n¿Quiénes reciben el Bono Escolaridad 2022?\nDocentes universitarios a los que se refiere la Ley Nº 30220.\nEl personal de la salud del Decreto Legislativo Nº 1153.\nLos obreros permanentes y eventuales del Sector Público.\nPersonal de las Fuerzas Armadas.\nPersonal de la Policía Nacional del Perú.\nPensionistas a cargo del Estado comprendidos en los regímenes de la Ley Nº 15117, los Decretos Leyes Nº 19846 y Nº 20530, el Decreto Supremo Nº 051-88-PCM y la Ley Nº 28091.\nLos trabajadores del Sector Público que se encuentran bajo el régimen laboral de la actividad privada también percibirán la bonificación por escolaridad.\nLos servidores penitenciarios.\nLos auxiliares de educación nombrados y contratados en las instituciones educativas públicas.\nLos jueces del Poder Judicial y fiscales del Ministerio Público.\nLos jueces supernumerarios del Poder Judicial.\nLos fiscales provisionales que no se encuentran en la carrera fiscal del Ministerio Público\nRequisitos para cobrar el Bono Escolaridad 2022\nDebe estar laborando a la fecha de vigencia de la presente norma o en uso del descanso vacacional.\nDebe estar de licencia con goce de remuneraciones.\nDebe contar en el servicio con una antigüedad no menor de tres meses a la fecha prevista en el literal precedente.\nSi no cuenta con el referido tiempo, dicho beneficio se abona en forma proporcional a los meses y días laborados.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UkVEGlLRZ0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UkVEGlLRZ0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UkVEGlLRZ0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UkVEGlLRZ0g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UkVEGlLRZ0g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FST NEGOCIOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-26T17:38:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oWtW7JymGcSZfvRKlb8wK4sN2KI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uRP_mLoicLE"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-26T15:27:04Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "BONO ALIMENTARIO 270 SOLES- BENEFICIARIOS SETIEMBRE",
+                "description": "BONO ALIMENTARIO 270 SOLES- BENEFICIARIOS SETIEMBRE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uRP_mLoicLE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uRP_mLoicLE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uRP_mLoicLE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uRP_mLoicLE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uRP_mLoicLE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-26T15:27:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U-Jk47yrIpbYFsHIJNcFH-Wc5tM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lrUwbLr2MyI"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-27T17:24:30Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "VERIFICA SI ESTAS EN LA LISTA BONO ALIMENTARIO 300 SOLES",
+                "description": "LINK DE MI PAGINA PARA VERIFICAR: https://bit.ly/3b7HDbd",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lrUwbLr2MyI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lrUwbLr2MyI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lrUwbLr2MyI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lrUwbLr2MyI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lrUwbLr2MyI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-27T17:24:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gE8_MBPUoX5RmhlxynTacJIgph4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VeBJSQKdV5U"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-04T21:44:25Z",
+                "channelId": "UCGVjnOcshwruCQmeZ0b5dfw",
+                "title": "BONO TECHO PROPIO 2022 GRATIS. El estado te regala hasta S/ 40,250 SOLES para tu CASA NUEVA",
+                "description": "Ministerio de Vivienda: ¿De cuánto serán los bonos de Techo Propio este año?\nEl año pasado el Bono Familiar Habitacional de Techo Propio era de S/ 26,400, pero ¿a cuánto ascenderá durante este 2022?\n\nBienvenidos FSTUBERS\nTE INVITO A SUSCRIBIRTE GRATIS A MI CANAL FST NEGOCIOS\nSi deseas mucha información gratuita para tu economía, tu bolsillo y tu negocio puedes visitar mi página web:\nhttps://fstnegocios.com/\nO mis redes sociales:\n— Redes Sociales — \n- Instagram (FSTNEGOCIOS): https://www.instagram.com/fstnegocios/\n- Facebook (FST NEGOCIOS): https://www.facebook.com/fstnegocios/\n- Linkedin (Freddy Silva Tuesta): https://www.linkedin.com/in/freddy-silva-tuesta-b845a21b0/\n-Tiktok (fstnegocios): https://www.tiktok.com/@fstnegocios?lang=es\n- Twitter (fstnegocios): https://twitter.com/FstNegocios\n\nSi quieres saber como usar la nueva APP VIEXVI para negocios de turismo mira este video: https://youtu.be/pckOULoShE8\nTe cuento que podemos hacer un video y promocionar tus experiencias. Sólo escríbenos a experiencias@viexvi.com.\nTe invitamos a mostrar tus experiencias por VIEXVI y ganar dinero: \nDESCARGA EN ANDROID (GOOGLE): https://play.google.com/store/apps/details?id=com.kyaemp.luxury.viexvi&hl=es_PE&gl=US \nDESCARGA EN iOS (APPLE) \nhttps://apps.apple.com/pe/app/viexvi/id1564145798\n\nBlog de Freddy Silva Tuesta en Facebook con consejos para tu economía tu bolsillo y tu negocio:\nhttps://www.facebook.com/Freddy-Silva-Tuesta-238990114690010\n\n\nEl programa Techo Propio actualizó los valores del Bono Familiar Habitacional para el 2022, informó el Ministerio de Vivienda, Construcción y Saneamiento (MVCS).\n\nPara este año el valor del subsidio seguirá siendo de 6 UIT, es decir, S/ 27,600 con el nuevo monto de la UIT.\n\nAnteriormente, en el 2021, este bono en la modalidad de Construcción en Sitio Propio era de S/ 26,400.\n\nTambién se actualizada el valor excepcional del ahorro mínimo requerido para acceder al BFH, que será de S/ 105.8 (0.023 UIT), pues \"se ha identificado que existen familias en los segmentos de menores ingresos que no podrían aportar un ahorro mayor en el corto plazo\". \n\nRespecto a la modalidad Adquisición de Vivienda Nueva, el bono pasará de S/ 38,500 a S/ 40,250 y el valor de ahorro mínimo sería equivalente al 0.3% del valor de la vivienda a adquirir.\n\nAsimismo, el MVCS indica que este Bono Familiar Habitacional cuentan con valores preferentes para algunas poblaciones.\n\nLas personas con discapacidad de las Fuerzas Armadas y de la Policía Nacional, comprendidas en la Ley 29643, tendrán un valor adicional del 25% y en estos casos el bono será de S/ 34,500.\n\nEn el caso de las víctimas que perdieron sus viviendas a causa del proceso de violencia ocurrido entre 1980 y el 2000, y para quienes viven en los distritos del Valle de los ríos Apurímac, Ene y Mantaro (VRAEM) y en el departamento de Huancavelica, el bono será un 51% mayor, con lo cual el bono será de S/ 41,676.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VeBJSQKdV5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VeBJSQKdV5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VeBJSQKdV5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VeBJSQKdV5U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VeBJSQKdV5U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FST NEGOCIOS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-04T21:44:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1rjgYf-BaBwEzyFvTTsOrYWZJgk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y0MC9NFA7-Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-13T17:08:47Z",
+                "channelId": "UC6WUCnl_i5ZRh13VjpcOmQA",
+                "title": "🔥 Link de Consulta Bono Yanapay Perú | Plataforma Activa | Gob.pe ✅",
+                "description": "⭕ https://bit.ly/YanapayPlataformaHabilitada  - Consulta si tu hogar es beneficiario, seguí los pasos para realizar tu consulta exitosa y segura.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y0MC9NFA7-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y0MC9NFA7-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y0MC9NFA7-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y0MC9NFA7-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y0MC9NFA7-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noticias Perú",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-13T17:08:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xu3t0_20-_UKrlLU8PQajdGmcsk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IaWK-htNCF0"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-27T19:27:34Z",
+                "channelId": "UCS2X4Rr1uyJKeKjsz3vSvbg",
+                "title": "Cómo acceder al Programa CONTIGO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IaWK-htNCF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IaWK-htNCF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IaWK-htNCF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IaWK-htNCF0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IaWK-htNCF0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIMP Conadis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-27T19:27:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eY6Y-ox06ZmSLBUspvBwu1KqYVo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BMzdrxPIxuY"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-02T13:53:15Z",
+                "channelId": "UCSs1jsx3-YobcAcXALwN33Q",
+                "title": "SEGUNDO BONO YANAPAY ¿CUANDO SE PODRA COBRAR?",
+                "description": "MAS INFORMACION:https://bit.ly/BONOYANAPAY-NUEVALISTA\nSEGUNDO BONO YANAPAY - ¿CUANDO SE PODRA COBRAR?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BMzdrxPIxuY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BMzdrxPIxuY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BMzdrxPIxuY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BMzdrxPIxuY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BMzdrxPIxuY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TE CUENTO TODO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-02T13:53:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lbmc-4MioJyUsqIzLP2k3dKjUao",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hHrE-bM_aNU"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-25T07:35:50Z",
+                "channelId": "UCZoH-CV2ik_of1jtRvmZEuQ",
+                "title": "Las Mil y Una Noche - capitulo 1",
+                "description": "#Las_Mil_y_Una_Noche #weco #Series_Turcas #Series_Turcas_WECO\nOnur Aksal (Halit Ergenç) es un hombre que no confía en las mujeres por haber sufrido un engaño hace tiempo y porque cuando era muy niño, su padre lo abandonó junto a su madre para irse con otra mujer. También es un hombre al cual le gusta leer mucho, siendo su libro preferido, la famosa novela árabe Las Mil y Una Noches. Él es el dueño de la importante constructora Binyapi; en la que trabaja Sherezade Evliyaoğlu (Bergüzar Korel), una brillante arquitecta que perdió a su esposo, Ahmed Evliyaoğlu, en un accidente y quedó sola con un pequeño hijo de cinco años llamado Kaan (Efe Çınar), que ha sido diagnosticado con leucemia. Llega el momento en que la enfermedad de Kaan entra en un punto crítico por lo que requiere un trasplante de médula ósea urgente. Ella acude a su suegro, Burhan Evliyaoğlu (Metin Çekmez), para pedirle el dinero que necesita para la operación, pero éste se niega a dárselo, porque nunca estuvo de acuerdo con que su hijo, Ahmed (Atilla Türkmen), se casara con ella, además la cree responsable de su muerte y vive desde ese momento renegando de su nieto. Debido a que su suegro le dijo que no, Sherezade no tiene más opción que pedirle dinero a Binyapi, Onur dice que se lo da con la condición de pasar una noche con él (esto lo hace para probarla ya que según él, a las mujeres solo les interesa el dinero).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hHrE-bM_aNU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hHrE-bM_aNU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hHrE-bM_aNU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hHrE-bM_aNU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hHrE-bM_aNU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "WECO Películas y Series Turcas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-25T07:35:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cAIPEy8ODBNk0CbcEsFs6LV7OTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cr_LjQnOEBk"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-06T16:35:00Z",
+                "channelId": "UCO_C_Fv5qF5jYOzrl2eF8cw",
+                "title": "NUEVO BONO DE S/760 Y S/2280 ¿QUIÉNES VAN A RECIBIR? REQUISITOS OFICIALES",
+                "description": "Síguenos en Facebook: https://www.facebook.com/informacionutilperu 👍✔️😀\n\nMOMENTO DE REFLEXIÓN \n-------------------------------------------\nRomanos 5:8 \nMas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cr_LjQnOEBk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cr_LjQnOEBk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cr_LjQnOEBk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cr_LjQnOEBk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cr_LjQnOEBk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Información útil",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-06T16:35:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MBiLlj-AD0WarCujoSYtdP_Y8Ng",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pGHTXQKnrwE"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-05T13:49:03Z",
+                "channelId": "UC_r8BVAjEb2cTfTPowQKAjg",
+                "title": "Bono Yanapay 350 soles: Desde HOY puede cobrar el bono el Grupo 2",
+                "description": "#CorreoÚltimaHora | Desde este martes 5 de octubre 22 de septiembre, los beneficiarios del Grupo 2 del #BonoYanapay podrán hacer efectivo el cobro del subsidio económico de S/ 350 que viene otorgando el gobierno de Pedro Castillo.\n\nSUSCRÍBETE AQUÍ ► https://bit.ly/3lEGJn8\nWeb: https://diariocorreo.pe \nTwitter: https://twitter.com/diariocorreo\nFacebook: https://www.facebook.com/CorreoPeru/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pGHTXQKnrwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pGHTXQKnrwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pGHTXQKnrwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pGHTXQKnrwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pGHTXQKnrwE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Diario Correo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-05T13:49:03Z"
+            }
+        }
+    ]
+}
